@@ -1,1 +1,2 @@
 Adding content to file7
+"Added new content at git level"
